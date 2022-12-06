@@ -1,0 +1,19 @@
+.header{
+    /* display: inline-block; */
+}
+
+
+.nav__upper {
+    /* display: inline-block; */
+}
+
+.upper__right {
+    display: block;
+    text-align: right;
+    /* margin: 10px; */
+}
+
+.nav__lower{
+    /* display: inline; */
+    text-align: center;
+}
